@@ -1,4 +1,4 @@
-# Kali Linux Araçlar ve Bilgi Toplama
+# Kali Linux Araçları ve Bilgi Toplama
 ## Nmap ve Zenmap
 Nmap ve Zenmap, Kali Linux'ta etik hacking taraması için yararlı araçlardır.
 
